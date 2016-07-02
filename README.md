@@ -298,7 +298,7 @@ I used IntelliJ IDEA 2016.1.1 for the demo. For deploying the code correctly, ma
 - Select the Project Structure icon ![Alt text](E:\Puja\Documentation\images\project_structure.png "Optional Title")
 - Go to Artifacts tab.
 - Change the Output directory path to appropriate path.
-
+[![A screenshot of jTable](https://github.com/pujagani/JTableSpringDemo/blob/master/screenshots/artifact.PNG)]
 ######Using other databases
 In order to use other databases, the database access setup part will change and create table statement in each of the model classes will change according to the syntax for the selected database.
 
