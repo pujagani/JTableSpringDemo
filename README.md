@@ -295,14 +295,18 @@ The above code snippet is part of Save() function of StudentController.java. Stu
 
 ######Artifacts
 I used IntelliJ IDEA 2016.1.1 for the demo. For deploying the code correctly, make sure you do the following steps correctly:
-- Select the Project Structure icon ![Alt text](E:\Puja\Documentation\images\project_structure.png "Optional Title")
+- Select the Project Structure icon ![Project Structure Icon](https://github.com/pujagani/JTableSpringDemo/blob/master/screenshots/project_structure.png)
 - Go to Artifacts tab.
 - Change the Output directory path to appropriate path.
-[![A screenshot of jTable](https://github.com/pujagani/JTableSpringDemo/blob/master/screenshots/artifact.PNG)]
+[![Changing path in Artifact](https://github.com/pujagani/JTableSpringDemo/blob/master/screenshots/artifact.PNG)
+
 ######Using other databases
 In order to use other databases, the database access setup part will change and create table statement in each of the model classes will change according to the syntax for the selected database.
 
-
+###### Screenshots of Student Table
+[![Menu and Student Table](https://github.com/pujagani/JTableSpringDemo/blob/master/screenshots/StudentTable.PNG "Menu and Student Table")
+[![Edit Student Record Dialog](https://github.com/pujagani/JTableSpringDemo/blob/master/screenshots/editStudentTable.PNG "Edit Student Record Dialog")
+[![Master Table- Student, Child Table- Exam Results](https://github.com/pujagani/JTableSpringDemo/blob/master/screenshots/MasterChildTable.PNG "Master Child Table- Student - Exam Results")
 
 
 
